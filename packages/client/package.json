@@ -20,9 +20,9 @@
     "url": "git+https://github.com/tolikhalas/Siema-Tech-Monorepo-v2.git"
   },
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3030",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 3030",
     "lint": "next lint"
   },
   "dependencies": {
