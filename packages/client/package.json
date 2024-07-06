@@ -1,0 +1,35 @@
+{
+  "name": "@siema-tech-mono/client",
+  "version": "0.0.1",
+  "description": "Siema Tech Monorepo v2 Next.js client package",
+  "keywords": [
+    "Next.js",
+    "lerna",
+    "monorepo",
+    "typescript",
+    "tailwindcss",
+    "framer-motion",
+    "aceternity-ui"
+  ],
+  "author": "Anatolii Halas <tolikgalas@gmail.com>",
+  "homepage": "https://github.com/tolikhalas/Siema-Tech-Monorepo-v2#readme",
+  "license": "MIT",
+  "main": "lib/client.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolikhalas/Siema-Tech-Monorepo-v2.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/client.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/tolikhalas/Siema-Tech-Monorepo-v2/issues"
+  }
+}
