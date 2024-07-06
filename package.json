@@ -1,5 +1,12 @@
 {
-  "name": "root",
+  "name": "siema-tech-mono",
+  "author": {
+    "name": "Anatolii Halas",
+    "email": "tolikgalas@gmail.com",
+    "url": "https://github.com/tolikhalas"
+  },
+  "license": "MIT",
+  "version": "0.0.1",
   "private": true,
   "workspaces": [
     "packages/*"
