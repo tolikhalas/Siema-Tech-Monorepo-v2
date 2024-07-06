@@ -1,0 +1,1 @@
+console.log("Shared package's index.ts")
