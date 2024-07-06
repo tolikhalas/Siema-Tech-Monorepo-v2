@@ -11,6 +11,10 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "dev": "lerna run dev,start:dev --stream --parallel --no-bail",
+    "build": "lerna run build --no-bail"
+  },
   "dependencies": {},
   "devDependencies": {
     "lerna": "^8.1.5"
