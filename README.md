@@ -114,8 +114,8 @@ This project is for the Node.js **22.4.0 release or later**.
 ... docker **27.0.3 release or later**.
 
 > `$ docker --version` > `$ 27.0.3`
->
-> ... & docker-compose **27.0.3 release or later**.
+
+... & docker-compose **27.0.3 release or later**.
 
 > `$ docker-compose --version` > `$ Docker Compose version 2.28.1`
 
