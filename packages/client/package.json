@@ -26,6 +26,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@siema-tech-mono/shared": "workspace:*",
+    "@siema-tech-mono/components": "workspace:*",
     "react": "^18",
     "react-dom": "^18",
     "next": "14.2.4"
